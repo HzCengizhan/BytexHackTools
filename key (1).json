@@ -1,0 +1,299 @@
+{
+    "keys": [
+        {
+            "key": "GANGSTA-1337-KEY-01",
+            "bitis_tarihi": "2025-08-15",
+            "quota": 10
+        },
+        {
+            "key": "HACKER-ACCESS-2025",
+            "bitis_tarihi": "2025-12-31",
+            "quota": 10
+        },
+        {
+            "key": "HZCYBER-ULTRA-9999",
+            "bitis_tarihi": "2026-01-01",
+            "quota": 100000000000
+        },
+        {
+            "key": "DENEME",
+            "bitis_tarihi": "2025-06-01",
+            "quota": 10
+        },
+        {
+            "key": "GANGSTA-1337-KEY-02",
+            "bitis_tarihi": "2026-06-01",
+            "quota": 10
+        },
+        {
+            "key": "HACKER-ACCESS-2026",
+            "bitis_tarihi": "2026-12-31",
+            "quota": 10
+        },
+        {
+            "key": "HZCYBER-ULTRA-10000",
+            "bitis_tarihi": "2027-01-01",
+            "quota": 10
+        },
+        {
+            "key": "GANG-POWER-7777",
+            "bitis_tarihi": "2027-07-07",
+            "quota": 10
+        },
+        {
+            "key": "CYBER-MASTER-500",
+            "bitis_tarihi": "2025-11-11",
+            "quota": 10
+        },
+        {
+            "key": "KINGPIN-9000",
+            "bitis_tarihi": "2026-05-05",
+            "quota": 10
+        },
+        {
+            "key": "ELITE-HACKER-420",
+            "bitis_tarihi": "2026-09-09",
+            "quota": 10
+        },
+        {
+            "key": "NIGHT-CRAWLER-1337",
+            "bitis_tarihi": "2027-03-15",
+            "quota": 10
+        },
+        {
+            "key": "SHADOW-AGENT-01",
+            "bitis_tarihi": "2027-12-31",
+            "quota": 10
+        },
+        {
+            "key": "UNDERGROUND-99",
+            "bitis_tarihi": "2028-01-01",
+            "quota": 10
+        },
+        {
+            "key": "CODE-BREAKER-555",
+            "bitis_tarihi": "2025-10-10",
+            "quota": 10
+        },
+        {
+            "key": "STEALTH-OP-2025",
+            "bitis_tarihi": "2025-09-09",
+            "quota": 98
+        },
+        {
+            "key": "GHOST-EXE-007",
+            "bitis_tarihi": "2026-08-08",
+            "quota": 10
+        },
+        {
+            "key": "HACK-LEGEND-01",
+            "bitis_tarihi": "2026-04-04",
+            "quota": 10
+        },
+        {
+            "key": "VIRUS-MASTER-333",
+            "bitis_tarihi": "2027-02-02",
+            "quota": 10
+        },
+        {
+            "key": "ZERO-DAY-2025",
+            "bitis_tarihi": "2025-12-12",
+            "quota": 10
+        },
+        {
+            "key": "BLACKHAT-9001",
+            "bitis_tarihi": "2026-03-03",
+            "quota": 10
+        },
+        {
+            "key": "CYBER-GANG-4200",
+            "bitis_tarihi": "2027-06-06",
+            "quota": 10
+        },
+        {
+            "key": "MALWARE-KING-777",
+            "bitis_tarihi": "2026-07-07",
+            "quota": 10
+        },
+        {
+            "key": "EXPLOIT-BOSS-1337",
+            "bitis_tarihi": "2027-01-01",
+            "quota": 10
+        },
+        {
+            "key": "HACKTIVIST-2026",
+            "bitis_tarihi": "2026-11-11",
+            "quota": 10
+        },
+        {
+            "key": "CYBER-PUNK-2084",
+            "bitis_tarihi": "2028-04-04",
+            "quota": 10
+        },
+        {
+            "key": "NINJA-HACKER-999",
+            "bitis_tarihi": "2027-08-08",
+            "quota": 10
+        },
+        {
+            "key": "GANG-LORD-2025",
+            "bitis_tarihi": "2025-07-31",
+            "quota": 10
+        },
+        {
+            "key": "ELITE-CRACKER-01",
+            "bitis_tarihi": "2026-10-10",
+            "quota": 10
+        },
+        {
+            "key": "INTERNET-GOD-420",
+            "bitis_tarihi": "2027-09-09",
+            "quota": 10
+        },
+        {
+            "key": "STEALTH-HACK-555",
+            "bitis_tarihi": "2026-12-12",
+            "quota": 10
+        },
+        {
+            "key": "PHANTOM-BOT-007",
+            "bitis_tarihi": "2027-05-05",
+            "quota": 10
+        },
+        {
+            "key": "ROOT-ACCESS-1337",
+            "bitis_tarihi": "2027-03-03",
+            "quota": 10
+        },
+        {
+            "key": "GHOST-HACKER-999",
+            "bitis_tarihi": "2028-02-02",
+            "quota": 10
+        },
+        {
+            "key": "BLACK-MASK-01",
+            "bitis_tarihi": "2027-11-11",
+            "quota": 10
+        },
+        {
+            "key": "CYBER-ELITE-2025",
+            "bitis_tarihi": "2025-08-08",
+            "quota": 10
+        },
+        {
+            "key": "HACKER-DEVIL-420",
+            "bitis_tarihi": "2026-01-01",
+            "quota": 1000
+        },
+        {
+            "key": "DARK-WEB-9999",
+            "bitis_tarihi": "2027-12-12",
+            "quota": 10
+        },
+        {
+            "key": "ZERO-HOUR-7777",
+            "bitis_tarihi": "2026-06-06",
+            "quota": 10
+        },
+        {
+            "key": "NIGHT-OWL-1337",
+            "bitis_tarihi": "2026-09-09",
+            "quota": 10
+        },
+        {
+            "key": "SHADOW-FOX-420",
+            "bitis_tarihi": "2027-01-01",
+            "quota": 10
+        },
+        {
+            "key": "UNDERCOVER-99",
+            "bitis_tarihi": "2028-03-03",
+            "quota": 10
+        },
+        {
+            "key": "CODE-WARRIOR-555",
+            "bitis_tarihi": "2025-10-10",
+            "quota": 10
+        },
+        {
+            "key": "STEALTH-STRIKE-2025",
+            "bitis_tarihi": "2025-11-11",
+            "quota": 10
+        },
+        {
+            "key": "GHOST-RIDER-007",
+            "bitis_tarihi": "2026-07-07",
+            "quota": 10
+        },
+        {
+            "key": "HACK-LEGENDARY-01",
+            "bitis_tarihi": "2026-04-04",
+            "quota": 10
+        },
+        {
+            "key": "VIRUS-HUNTER-333",
+            "bitis_tarihi": "2027-02-02",
+            "quota": 10
+        },
+        {
+            "key": "ZERO-DAY-2026",
+            "bitis_tarihi": "2026-12-12",
+            "quota": 10
+        },
+        {
+            "key": "BLACKHAT-MASTER-9001",
+            "bitis_tarihi": "2027-03-03",
+            "quota": 10
+        },
+        {
+            "key": "CYBER-GANGSTA-4200",
+            "bitis_tarihi": "2028-06-06",
+            "quota": 10
+        },
+        {
+            "key": "MALWARE-LORD-777",
+            "bitis_tarihi": "2027-07-07",
+            "quota": 10
+        },
+        {
+            "key": "EXPLOIT-KING-1337",
+            "bitis_tarihi": "2028-01-01",
+            "quota": 10
+        },
+        {
+            "key": "HACKTIVIST-LEGEND-2026",
+            "bitis_tarihi": "2027-11-11",
+            "quota": 10
+        },
+        {
+            "key": "CYBER-PUNK-NEO-2084",
+            "bitis_tarihi": "2028-04-04",
+            "quota": 10
+        },
+        {
+            "key": "NINJA-GANG-999",
+            "bitis_tarihi": "2027-08-08",
+            "quota": 10
+        },
+        {
+            "key": "GANG-LORD-ULTIMATE",
+            "bitis_tarihi": "2028-12-31",
+            "quota": 10
+        },
+        {
+            "key": "ADM\u0130NKEY",
+            "bitis_tarihi": "2026-02-13",
+            "quota": 0
+        },
+        {
+            "key": "test",
+            "bitis_tarihi": "2026-02-13",
+            "quota": 0
+        },
+        {
+            "key": "HZ-CYBER-BOSS-7777",
+            "bitis_tarihi": "3000-12-31",
+            "quota": 999999996
+        }
+    ]
+}

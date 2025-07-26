@@ -294,6 +294,11 @@
             "key": "HZ-CYBER-BOSS-7777",
             "bitis_tarihi": "3000-12-31",
             "quota": 999999996
+        },        
+        {
+            "key": "ADMINBABAPİYE",
+            "bitis_tarihi": "3000-12-31",
+            "quota": 999999996
         }
     ]
 }
